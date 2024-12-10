@@ -19,15 +19,12 @@ Pudent is a mobile application powered by cutting-edge technology:
 🌐 Cross-device Compatibility
 🚀 How It Works
 Hardware Setup:
-
 The Arduino device uses a sensor to detect insulin levels in the blood or body.
 Data is sent via Bluetooth to the mobile app.
 Mobile App:
-
 The app pairs with the hardware device via BLE.
 Insulin readings are displayed in real-time on the app interface.
 Data Tracking:
-
 The app stores and visualizes historical data for better analysis.
 📱 Screenshots
 📸 Coming soon!
@@ -41,20 +38,15 @@ Arduino
 Bluetooth Low Energy (BLE)
 🌟 Installation
 Clone this repository:
-
 bash
 Copy code
 git clone https://github.com/yourusername/pudent.git
 cd pudent
 Open the project in Android Studio.
-
 Build and run the app on your Android device.
-
-Set up the Arduino hardware using the provided hardware setup guide.
-
+Set up the Arduino hardware using the provided Hardware Setup Guide.
 ⚙️ Hardware Setup
 Requirements:
-
 Arduino Uno/Nano
 Insulin sensor module
 Bluetooth module (e.g., HC-05 or BLE module)
@@ -73,9 +65,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 🧑‍💻 Team
 Monu Yaduwanshi: Pudent
-
 📫 Contact
 For any questions or suggestions, feel free to reach out:
-📧 Email: monuyaduvanshi2003@gmail.com.com
+📧 Email: monuyaduvanshi2003@gmail.com
 
 🌟 Pudent: A step towards smarter healthcare, one drop at a time.
