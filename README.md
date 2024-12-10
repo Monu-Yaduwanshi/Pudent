@@ -95,7 +95,7 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 
 ## 🧑‍💻 Team
 
-**Monu Yaduwanshi**: Creator of Pudent.
+**Monu Yaduwanshi**: UI/UX designer.
 
 ---
 
